@@ -1,0 +1,30 @@
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\KTVPlayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\KTVPlayer.Form1.resources
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\KTVPlayer.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\bin\Debug\KTVPlayer.exe.config
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\bin\Debug\KTVPlayer.exe
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\bin\Debug\KTVPlayer.pdb
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\KTVPlayer.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\KTVPlayer.exe
+D:\Visual Studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\KTVPlayer.pdb
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\bin\Debug\KTVPlayer.exe.config
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\obj\Debug\KTVPlayer.exe
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\obj\Debug\KTVPlayer.pdb
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\bin\Debug\KTVPlayer.exe
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\bin\Debug\KTVPlayer.pdb
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\obj\Debug\KTVPlayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\obj\Debug\KTVPlayer.Form1.resources
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\obj\Debug\KTVPlayer.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\KTVPlayer\MusicPTest2\obj\Debug\KTVPlayer.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.exe.config
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.exe
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.pdb
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.exe
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.pdb
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.Form1.resources
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.csproj.GenerateResource.Cache
+D:\GitHub\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.exe.config
+D:\GitHub\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.exe
+D:\GitHub\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.pdb

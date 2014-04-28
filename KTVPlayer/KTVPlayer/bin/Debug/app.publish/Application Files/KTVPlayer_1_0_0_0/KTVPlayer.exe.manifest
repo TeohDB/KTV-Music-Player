@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="KTVPlayer.exe" version="1.0.0.0" publicKeyToken="20bcf8e0aecfee35" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="KTVPlayer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="KTVPlayer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KTVPlayer.exe" size="9728">
+      <assemblyIdentity name="KTVPlayer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>NDqeXFhHatb8TECOexis/KucEiM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Victor-PC\Victor" issuerKeyHash="722dc57588e039c833f920d0331fa8395fa9f89a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AgNmRwKngOgEkPz95aNl0ymuevM=</DigestValue></Reference></SignedInfo><SignatureValue>SnLxEeXQXycYGCZ/kdab4SwWTTpTbix+jNSXvvjjtV0v9oYiHLdzI5O3f3zS+QIZLy970/hrBk+WV05yHzPWWSMxNnsWmi1FdmqiwPl36/j0ZXdVAo5QXznSyJjSlV8rLNsDuBVbtKBpQm5KH/p6dX3vuag6ZCNnCOnuJQBxavo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>unHqqNV6O3QfBzCDKn2F648rCK70vC8dK3cp0Am+oPBHXVoVpDf6s70+jXKj8ntLGfRoqoNHYPkZ3plYxmScFyX5E6NtTZ5SuuLph+atgi6vAYvpJjtTC79xUvljVOzLv8HSljA/LVAk7BmqUlhJS2/0BN822bNX0r70QLqcvEE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f37aae29d365a3e5fdfc9004e880a70247660302" Description="" Url=""><as:assemblyIdentity name="KTVPlayer.exe" version="1.0.0.0" publicKeyToken="20bcf8e0aecfee35" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Victor-PC\Victor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nZYoWMntPjJwG1qZF3azvagOdhc=</DigestValue></Reference></SignedInfo><SignatureValue>c7RBHYJEbpXPtllODIhG6ildlMY+FMNopb4fVX5WiDPCT27+uscvH8aQfGkbQN5bObLx/OXidwItJ87f4b2qI/7Ft5RuprglsiUWHqqEKTAQJtotLvoGzUC9/Hi5drz1DUicgxy+4fOwKxuPMESrPR9DQw7UCweUOdpQ2GNCEXI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>unHqqNV6O3QfBzCDKn2F648rCK70vC8dK3cp0Am+oPBHXVoVpDf6s70+jXKj8ntLGfRoqoNHYPkZ3plYxmScFyX5E6NtTZ5SuuLph+atgi6vAYvpJjtTC79xUvljVOzLv8HSljA/LVAk7BmqUlhJS2/0BN822bNX0r70QLqcvEE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQHawA0dmxjrdI3xNiRLwldzANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAVgBpAGMAdABvAHIALQBQAEMAXABWAGkAYwB0AG8AcjAeFw0xNDA0MjgwOTMyMzJaFw0xNTA0MjgxNTMyMzJaMCsxKTAnBgNVBAMeIABWAGkAYwB0AG8AcgAtAFAAQwBcAFYAaQBjAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6ceqo1Xo7dB8HMIMqfYXrjysIrvS8Lx0rdynQCb6g8EddWhWkN/qzvT6NcqPye0sZ9Giqg0dg+RnemVjGZJwXJfkTo21NnlK64umH5q2CLq8Bi+kmO1MLv3FS+WNU7Mu/wdKWMD8tUCTsGapSWElLb/QE3zbZs1fSvvRAupy8QQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAJAhI7NoQZVqC+gbWUmxnSHvEKpWFhL/ux0KkgyRUrrmZT68DRbZkk7AoMxjyRGToyjpfd7LEcl6KGBxUAZNsj1Vr3XvirRHIJ0OfdSoxrhAWAIdI4iYPVeF/PWvwX4SalA1/2cpl70t6BiYzScZrXYXvzStxWj/0Z6uiaVtcrQu</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

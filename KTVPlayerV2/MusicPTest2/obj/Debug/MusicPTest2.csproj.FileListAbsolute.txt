@@ -1,0 +1,9 @@
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\bin\Debug\MusicPTest2.exe.config
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\bin\Debug\MusicPTest2.exe
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\bin\Debug\MusicPTest2.pdb
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\MusicPTest2.csprojResolveAssemblyReference.cache
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\MusicPTest2.Form1.resources
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\MusicPTest2.Properties.Resources.resources
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\MusicPTest2.csproj.GenerateResource.Cache
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\MusicPTest2.exe
+d:\visual studio 2013\Projects\MusicPTest2\MusicPTest2\obj\Debug\MusicPTest2.pdb
