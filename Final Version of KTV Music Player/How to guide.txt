@@ -1,0 +1,6 @@
+1# Double-click KTV Music Player
+2# Click open
+3# Choose the file called 'Clara-De-Luna' located in the root
+4# Press Play
+5# Stop the music by clicking stop
+
