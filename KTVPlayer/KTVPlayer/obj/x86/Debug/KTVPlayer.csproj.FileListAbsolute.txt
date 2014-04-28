@@ -1,0 +1,4 @@
+C:\Users\Theodor DB\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Theodor DB\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Theodor DB\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Theodor DB\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.csproj.GenerateResource.Cache
