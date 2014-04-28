@@ -1,0 +1,12 @@
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\bin\Debug\KTVPlayer.exe
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\bin\Debug\KTVPlayer.pdb
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.csproj.GenerateResource.Cache
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.exe
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.pdb
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\bin\Debug\KTVPlayer.exe.manifest
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\bin\Debug\KTVPlayer.application
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.exe.manifest
+C:\Users\Victor\Documents\GitHub\KTV-Music-Player\KTVPlayer\KTVPlayer\obj\x86\Debug\KTVPlayer.application

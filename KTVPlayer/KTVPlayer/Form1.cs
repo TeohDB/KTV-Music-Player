@@ -12,7 +12,7 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-        MPlayer player = new MPlayer();
+        KTVMusicPlayer player = new KTVMusicPlayer();
 
         public Form1()
         {
