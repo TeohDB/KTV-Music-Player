@@ -28,3 +28,12 @@ D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.cspro
 D:\GitHub\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.exe.config
 D:\GitHub\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.exe
 D:\GitHub\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.pdb
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\bin\Debug\KTVPlayer.exe.config
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\obj\Debug\KTVPlayer.exe
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\obj\Debug\KTVPlayer.pdb
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\bin\Debug\KTVPlayer.exe
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\bin\Debug\KTVPlayer.pdb
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\obj\Debug\KTVPlayer.csprojResolveAssemblyReference.cache
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\obj\Debug\KTVPlayer.Form1.resources
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\obj\Debug\KTVPlayer.Properties.Resources.resources
+D:\GitHub\KTV-Music-Player\Final Version of KTV Music Player\Final KTV Player (Programming)\MusicPTest2\obj\Debug\KTVPlayer.csproj.GenerateResource.Cache

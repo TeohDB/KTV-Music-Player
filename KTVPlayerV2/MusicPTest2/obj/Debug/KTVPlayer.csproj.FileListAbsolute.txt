@@ -28,3 +28,6 @@ D:\Visual Studio 2013\Projects\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.cspro
 D:\GitHub\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.exe.config
 D:\GitHub\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.exe
 D:\GitHub\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.pdb
+D:\GitHub\KTV-Music-Player\KTVPlayerV2\MusicPTest2\bin\Debug\KTVPlayer.exe.config
+D:\GitHub\KTV-Music-Player\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.exe
+D:\GitHub\KTV-Music-Player\KTVPlayerV2\MusicPTest2\obj\Debug\KTVPlayer.pdb

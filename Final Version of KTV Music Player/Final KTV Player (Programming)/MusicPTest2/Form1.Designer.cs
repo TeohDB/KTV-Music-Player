@@ -20,6 +20,8 @@
             base.Dispose(disposing);
         }
 
+
+        //Creating and drawing the application
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -107,11 +109,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button openFile;
-        private System.Windows.Forms.Button playFile;
-        private System.Windows.Forms.Button stopFile;
-        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        //Declaring variables
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;

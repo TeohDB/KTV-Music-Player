@@ -11,11 +11,11 @@ namespace KTVPlayer
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
+        [STAThread] //Indicates the COM threding model for the application is single-threaded apartment (STA)
         static void Main()
         {
+            //Enables visuals and runs the application
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
     }
